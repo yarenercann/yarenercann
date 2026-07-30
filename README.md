@@ -2,7 +2,12 @@
   <img src="./banner.png" alt="Yaren Ercan — Software Engineering Student" width="100%" />
 </div>
 
-<br />
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1100&color=D96C8A&center=true&vCenter=true&width=850&height=55&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+Game+Development+Enthusiast;Always+Learning+%26+Building"
+    alt="Animated introduction"
+  />
+</div>
 
 ## 🌸 About Me
 
@@ -49,7 +54,6 @@
 I’m currently preparing projects that combine creativity, technology and real-world problem solving.
 
 </div>
-
 
 ## 💌 Let’s Connect
 

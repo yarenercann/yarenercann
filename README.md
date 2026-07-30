@@ -11,13 +11,10 @@
 
 ## 🌸 About Me
 
-- 🎓 I’m a fourth-year **Software Engineering** student based in İnönü University in Türkiye.
-- 💻 I enjoy turning ideas into clean, useful and user-friendly applications.
-- 🎮 I have developed games and gameplay mechanics using **Unity and C#**.
-- 🌐 I have built full-stack web applications with **React and Spring Boot**.
-- 🧠 I developed and analyzed algorithms as part of my **data structures** studies.
-- 🗄️ I designed relational database schemas and worked with data querying, validation and CRUD operations using **PostgreSQL**.
-- 🤖 I have developed artificial intelligence projects using **Python and TensorFlow**.
+- 🎓 I’m a fourth-year **Software Engineering** student at **İnönü University** in Türkiye.
+- 💻 I build clean and user-friendly applications using **React, Spring Boot and PostgreSQL**.
+- 🎮 I have experience in **game development with Unity and C#** and **AI development with Python and TensorFlow**.
+- 🧠 I have worked on **data structures, algorithm analysis, relational databases and software architecture**.
 
 ## 🛠️ Technologies & Tools
 

@@ -11,13 +11,12 @@
 
 ## 🌸 About Me
 
-- 🎓 I’m a fourth-year **Software Engineering** student based in Türkiye.
+- 🎓 I’m a fourth-year **Software Engineering** student based in İnönü University.
 - 💻 I enjoy turning ideas into clean, useful and user-friendly applications.
 - 🎮 I have developed games and gameplay mechanics using **Unity and C#**.
 - 🌐 I have built full-stack web applications with **React and Spring Boot**.
 - 🧠 I have worked on **data structures and algorithms**, relational databases and data validation.
 - 🤖 I have developed artificial intelligence projects using **Python and TensorFlow**.
-- ✨ I’m open to internship opportunities, collaboration and new challenges.
 
 ## 🛠️ Technologies & Tools
 
@@ -26,15 +25,6 @@
     src="https://skillicons.dev/icons?i=java,cs,python,js,html,css,spring,react,bootstrap,tensorflow,unity,postgres,docker,git,github,vscode&theme=dark&perline=8"
     alt="Java, C#, Python, JavaScript, HTML, CSS, Spring Boot, React, Bootstrap, TensorFlow, Unity, PostgreSQL, Docker, Git, GitHub and Visual Studio Code"
   />
-</div>
-
-<br />
-
-<div align="center">
-  <sub>
-    Java • C# • Python • JavaScript • HTML • CSS • Spring Boot • React • Bootstrap •
-    TensorFlow • Unity • PostgreSQL • Docker • Git • GitHub • VS Code
-  </sub>
 </div>
 
 ## 🌱 Currently Learning

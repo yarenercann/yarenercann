@@ -4,7 +4,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1100&color=D96C8A&center=true&vCenter=true&width=850&height=55&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+Game+Development+Enthusiast;Always+Learning+%26+Building"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1100&color=D96C8A&center=true&vCenter=true&width=850&height=55&lines=Software+Engineering+Student;Creating%2C+learning+and+growing+%E2%80%94+one+commit+at+a+time.+%F0%9F%8C%B1"
     alt="Animated introduction"
   />
 </div>

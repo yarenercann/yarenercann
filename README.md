@@ -48,6 +48,9 @@ I’m currently preparing projects that combine creativity, technology and real-
 ## 💌 Let’s Connect
 
 <div align="center">
+  <a href="mailto:ercan.yaren35@gmail.com">
+    <img width="48" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+  </a>
   <a href="https://github.com/yarenercann">
     <img width="48" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
   </a>&nbsp;&nbsp;&nbsp;

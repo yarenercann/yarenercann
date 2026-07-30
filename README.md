@@ -50,31 +50,6 @@ I’m currently preparing projects that combine creativity, technology and real-
 
 </div>
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/yarenercann/yarenercann/output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/yarenercann/yarenercann/output/pacman-contribution-graph.svg"
-    />
-    <img
-      alt="Yaren's Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/yarenercann/yarenercann/output/pacman-contribution-graph.svg"
-    />
-  </picture>
-
-  <br /><br />
-
-  <img
-    src="https://streak-stats.demolab.com?user=yarenercann&background=0D1117&border=ADC3A6&stroke=C9D1D9&ring=7FA07A&fire=D96C8A&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=D96C8A&sideLabels=C9D1D9&dates=8B949E"
-    alt="Yaren's GitHub contribution streak"
-  />
-</div>
 
 ## 💌 Let’s Connect
 

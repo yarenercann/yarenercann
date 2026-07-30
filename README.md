@@ -53,10 +53,10 @@ I’m currently preparing projects that combine creativity, technology and real-
   </a>
   <a href="https://github.com/yarenercann">
     <img width="48" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://www.linkedin.com/in/yaren-ercan-a05ba6292/">
     <img width="48" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="https://www.instagram.com/yarenercann_/">
     <img width="48" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
   </a>

@@ -69,8 +69,3 @@ I’m currently preparing projects that combine creativity, technology and real-
   </a>
 </div>
 
-<br />
-
-<div align="center">
-  <em>Creating, learning and growing — one commit at a time. 🌱</em>
-</div>

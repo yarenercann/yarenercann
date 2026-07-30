@@ -11,7 +11,7 @@
 
 ## 🌸 About Me
 
-- 🎓 I’m a fourth-year **Software Engineering** student based in İnönü University.
+- 🎓 I’m a fourth-year **Software Engineering** student based in İnönü University in Türkiye.
 - 💻 I enjoy turning ideas into clean, useful and user-friendly applications.
 - 🎮 I have developed games and gameplay mechanics using **Unity and C#**.
 - 🌐 I have built full-stack web applications with **React and Spring Boot**.

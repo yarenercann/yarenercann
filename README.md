@@ -29,10 +29,8 @@
 
 ## 🌱 Currently Learning
 
-- Advanced Spring Boot and backend development
+- Advanced backend development with Spring Boot
 - System design and distributed systems
-- Deep learning with TensorFlow
-- Game development with Unity
 - Professional and technical English
 
 ## ✨ Featured Projects

@@ -15,7 +15,8 @@
 - 💻 I enjoy turning ideas into clean, useful and user-friendly applications.
 - 🎮 I have developed games and gameplay mechanics using **Unity and C#**.
 - 🌐 I have built full-stack web applications with **React and Spring Boot**.
-- 🧠 I have worked on **data structures and algorithms**, relational databases and data validation.
+- 🧠 I developed and analyzed algorithms as part of my **data structures** studies.
+- 🗄️ I designed relational database schemas and worked with data querying, validation and CRUD operations using **PostgreSQL**.
 - 🤖 I have developed artificial intelligence projects using **Python and TensorFlow**.
 
 ## 🛠️ Technologies & Tools
